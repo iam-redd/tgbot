@@ -1,0 +1,21 @@
+{
+  "name": "tgbot",
+  "version": "1.0.0",
+  "description": "Telegram bot for TPhI IT department",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tgbot"
+  },
+  "author": "Javokhir Akhmedov",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "grammy": "^1.25.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "nodemon": "^3.1.3"
+  }
+}
